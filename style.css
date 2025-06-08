@@ -1,0 +1,35 @@
+body{
+  background-color: rgb(220, 246, 247);
+}
+
+.button-profile{
+
+  background-color: rgb(75, 158, 130);
+  border: none;
+  height: 100px;
+  width: 100px;
+  border-radius: 90px;
+  color: rgb(56, 197, 207);
+  margin-left: 101px;
+
+
+}
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 5px;
+}
+
+ul{
+
+  color: rgb(247, 209, 104);
+  background-color: rgb(139, 94, 224);
+  padding: 20px;
+  padding-left: 20px;
+  margin-left: 20px;
+  a
+}
